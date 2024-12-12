@@ -50,10 +50,6 @@ Además, si deseas crear un entorno virtual para el proyecto, puedes seguir esto
    python Cerveceria.py
    ```
 
-## Contribuciones
-
-Si deseas contribuir a este proyecto, siéntete libre de hacer un *fork* del repositorio y enviar un *pull request* con tus cambios.
-
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
